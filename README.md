@@ -29,7 +29,7 @@ To view this project locally, follow these steps:
 
 2. Navigate to the project directory:
 
-cd CoffeeShopLandingPage
+cd LandingPage
 
 3. Open the index.html file in your web browser.
 
